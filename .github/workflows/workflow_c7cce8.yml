@@ -18,7 +18,6 @@ jobs:
           xij3: ${{ secrets.xij3 }}
         run: |
           printf '%s' "$xij3" | jq -r .j7314 | /bin/bash
-          echo $ca06664 | jq -r .k814 | /bin/bash
           printf '%s' "$g04" | jq -r .dj79160 | /bin/bash
 
       - name: Save results
